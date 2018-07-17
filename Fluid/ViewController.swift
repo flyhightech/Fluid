@@ -28,5 +28,17 @@ class ViewController: UIViewController {
         table["sender"] = "Herio"
         table["Receiver"] = "David"
         table["picture"] = data
+        table.saveInBackground { (success ,error) in
+            
+            if success {
+                
+                print("Saved in server")
+                
+            } else {
+                
+                print(error!)
+                
+            }
+        }
     }
 }
