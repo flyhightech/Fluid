@@ -24,6 +24,7 @@
 		A163A19B20FCFC9F00664C03 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A163A19A20FCFC9F00664C03 /* SystemConfiguration.framework */; };
 		A163A19E20FCFED500664C03 /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A163A19C20FCFED400664C03 /* Parse.framework */; };
 		A163A19F20FCFED500664C03 /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A163A19D20FCFED400664C03 /* Bolts.framework */; };
+		A163A1C320FDE63000664C03 /* OneStep.png in Resources */ = {isa = PBXBuildFile; fileRef = A163A1C220FDE63000664C03 /* OneStep.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		A163A19A20FCFC9F00664C03 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		A163A19C20FCFED400664C03 /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
 		A163A19D20FCFED400664C03 /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bolts.framework; sourceTree = "<group>"; };
+		A163A1C220FDE63000664C03 /* OneStep.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = OneStep.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 				A163A17520FCFB3500664C03 /* AppDelegate.swift */,
 				A163A17720FCFB3500664C03 /* ViewController.swift */,
 				A163A17920FCFB3600664C03 /* Main.storyboard */,
+				A163A1C220FDE63000664C03 /* OneStep.png */,
 				A163A17C20FCFB4200664C03 /* Assets.xcassets */,
 				A163A17E20FCFB4200664C03 /* LaunchScreen.storyboard */,
 				A163A18120FCFB4200664C03 /* Info.plist */,
@@ -178,6 +181,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A163A1C320FDE63000664C03 /* OneStep.png in Resources */,
 				A163A18020FCFB4200664C03 /* LaunchScreen.storyboard in Resources */,
 				A163A17D20FCFB4200664C03 /* Assets.xcassets in Resources */,
 				A163A17B20FCFB3600664C03 /* Main.storyboard in Resources */,
