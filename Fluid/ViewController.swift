@@ -14,12 +14,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        let object = PFObject(className: "testObject")
-        object["name"] = "Bill"
-        object["last name"] = "Foster"
-        object.saveInBackground { (success, error) in
-           print("Save successfully.")
-            
-        } 
+        let table = PFObject(className: "messages")
+        table["sender"] = "Herio"
+        table["Receiver"] = "David"
+        table["picture"] = 
     }
 }
