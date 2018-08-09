@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>159373460552-tqt7fck9cn0k6t4m85lh38hqds8pdv5n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.159373460552-tqt7fck9cn0k6t4m85lh38hqds8pdv5n</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAm2ZUW9SGjvpzFMS-zqlx5LQrDtT8kq2c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>159373460552</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.flyhightech.Fluid</string>
+	<key>PROJECT_ID</key>
+	<string>fluid-cb0fd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fluid-cb0fd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:159373460552:ios:581a504017f7a92e</string>
+	<key>DATABASE_URL</key>
+	<string>https://fluid-cb0fd.firebaseio.com</string>
+</dict>
+</plist>
