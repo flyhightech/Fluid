@@ -5,7 +5,7 @@
 //  Created by Bernard Huff on 7/16/18.
 //  Copyright © 2018 Bernard Huff. All rights reserved.
 //
-//  Treat it like a investment. I will good sir. Check you out!
+//  Treat it like a investment. I will good sir. 
 
 import UIKit
 import Parse
